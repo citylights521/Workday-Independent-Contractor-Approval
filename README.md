@@ -1,5 +1,6 @@
 # Workday-Independent-Contractor-Approval
 
-At Nordstrom I worked closely with the development team and technology PMO (Project Management Office) to create a fast-follow solution for approving Independent Contractor requests internally. This took place as we migrated from an Oracle ATS (Applicant Tracking System) to the Workday ATS. Due to this being sensitive information for Nordstrom, I am not at liberty to share the details of this project, but can share that the system we had in place in Oracle was no longer viable once we were live in Workday.
+While at Nordstrom, I identified a gap critical to our hiring process as we transitioned from one applicant tracking system to another (Workday). In filling this gap, I worked closely with the development team and technology PMO (Project Management Office) to create a fast-follow solution for approving Independent Contractor requests internally. This involved bringing the vendor, leadership, key stakeholders, the engineering team, marketing, recruiting, legal, and other contributors to the table to find a solution that would work for all. 
 
-The solution that was put into place was a mid-term solution that regulated the approval process systematically with the involvement of the Contingent Workforce Team in the form of approval audits. This solution was meant to be in effect for 1-2 years during the RFP (Request for Proposal) for the Contingent Workforce Team to find a third party IC service; a task that was already underway at the time.
+In the end a solution was implemented that regulated the approval process systematically to everyone’s satisfaction. 
+
